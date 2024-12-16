@@ -1,0 +1,5 @@
+django
+virtualenv
+django-rest-framework
+django-cors-headers
+djangorestframework-jwt
